@@ -1,0 +1,19 @@
+Ans==>1 Primitive data types allowed values and the operations that can be performed on those values. Storage representaion of different data types is different in memory. 5 primitive data types int,char,float,double,void(void use in pointer and other place)
+
+Ans==>2 macro,declaration,global variable
+
+Ans==>3 4byte 
+
+Ans==>4 garbage variable
+
+Ans==>5 double content more than value for float 
+
+Ans==>6 American standard code for information interchange
+
+Ans==>7 (keyword define some special text )(function is a block of code {} )
+
+Ans==>8 
+
+Ans==>9 yes (if int a=a; it is posible, it mean a=97)
+
+Ans==>10 true	
